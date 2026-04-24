@@ -12,5 +12,5 @@ The icons were used under the terms of the Flaticon license.
 ## Open Source Software & Libraries
 This project makes use of the following open-source chess engines and repositories:
 
-* **Maia2**: [https://github.com/CSSLab/maia2](https://github.com/CSSLab/maia2)
+* **Maia2**: [https://github.com/CSSLab/maia2](https://github.com/CSSLab/maia2) - this app uses tuned version of maia2 model, that can be found in releases page
 * **Leorik**: [https://github.com/lithander/Leorik](https://github.com/lithander/Leorik)
