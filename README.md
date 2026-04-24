@@ -1,27 +1,10 @@
 # Used Resources (Icons)
 
-This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). Below is a list of icons along with information about their authors, in accordance with the requirements of the free license.
+This project uses icons downloaded from [Flaticon](https://www.flaticon.com/).
 
-## Icon List
+## Icon Links
 
-Link 1	Link 2	Link 3	Link 4
-Link 5	Link 6	Link 7	Link 8
-Link 9	Link 10	Link 11	Link 12
-Link 13	Link 14	Link 15	Link 16
-Link 17	Link 18	Link 19	Link 20
-Link 21	Link 22	Link 23	Link 24
-Link 25	Link 26	Link 27	Link 28
-Link 29	Link 30	Link 31	Link 32
-Link 33	Link 34	Link 35	Link 36
-Link 37	Link 38	Link 39	Link 40
-Link 41	Link 42	Link 43	Link 44
-Link 45	Link 46	Link 47	Link 48
-Link 49	Link 50	Link 51	Link 52
-Link 53	Link 54	Link 55	Link 56
-Link 57	Link 58	Link 59	Link 60
-Link 61	Link 62	Link 63	Link 64
-Link 65
+[Link 1](https://www.flaticon.com/free-icon/reload_560525) • [Link 2](https://www.flaticon.com/free-icon/power_14025474) • [Link 3](https://www.flaticon.com/free-icon/power_14025449) • [Link 4](https://www.flaticon.com/free-icon/refresh_8861013) • [Link 5](https://www.flaticon.com/free-icon/shuffle_1082339) • [Link 6](https://www.flaticon.com/free-icon/diagonal_12144368) • [Link 7](https://www.flaticon.com/free-icon/logout_4043198) • [Link 8](https://www.flaticon.com/free-icon/direction_3446185) • [Link 9](https://www.flaticon.com/free-icon/car_14230014) • [Link 10](https://www.flaticon.com/free-icon/info_471662) • [Link 11](https://www.flaticon.com/free-icon/back_11502464) • [Link 12](https://www.flaticon.com/free-icon/right_2722998) • [Link 13](https://www.flaticon.com/free-icon/loupe_751463) • [Link 14](https://www.flaticon.com/free-icon/hammer_7012680) • [Link 15](https://www.flaticon.com/free-icon/back-arrow_1828727) • [Link 16](https://www.flaticon.com/free-icon/import_8765164) • [Link 17](https://www.flaticon.com/free-icon/puzzle_2011644) • [Link 18](https://www.flaticon.com/free-icon/dice-cube_13500308) • [Link 19](https://www.flaticon.com/free-icon/chess_12462141) • [Link 20](https://www.flaticon.com/free-icon/chessboard_16800606) • [Link 21](https://www.flaticon.com/free-icon/graphic-progression_69856) • [Link 22](https://www.flaticon.com/free-icon/bulb_2961545) • [Link 23](https://www.flaticon.com/free-icon/arrow-right_9903638) • [Link 24](https://www.flaticon.com/free-icon/save-as_11159607) • [Link 25](https://www.flaticon.com/free-icon/bar-chart_8241611) • [Link 26](https://www.flaticon.com/free-icon/search_1665652) • [Link 27](https://www.flaticon.com/free-icon/analysis_10276954) • [Link 28](https://www.flaticon.com/free-icon/detail_5788083) • [Link 29](https://www.flaticon.com/free-icon/fire_7299732) • [Link 30](https://www.flaticon.com/free-icon/healthcare_10424699) • [Link 31](https://www.flaticon.com/free-icon/brightness_8637690) • [Link 32](https://www.flaticon.com/free-icon/night-mode_4623236) • [Link 33](https://www.flaticon.com/free-icon/filter_3839020) • [Link 34](https://www.flaticon.com/free-icon/letter_11980570) • [Link 35](https://www.flaticon.com/free-icon/report_10321422) • [Link 36](https://www.flaticon.com/free-icon/arrows_2301201) • [Link 37](https://www.flaticon.com/free-icon/board_6378325) • [Link 38](https://www.flaticon.com/free-icon/strategy_9640754) • [Link 39](https://www.flaticon.com/free-icon/cycle_4547300) • [Link 40](https://www.flaticon.com/free-icon/check_11029696) • [Link 41](https://www.flaticon.com/free-icon/bullet_225817) • [Link 42](https://www.flaticon.com/free-icon/flash_252851) • [Link 43](https://www.flaticon.com/free-icon/fire-flame_7860404) • [Link 44](https://www.flaticon.com/free-icon/turtle_8334172) • [Link 45](https://www.flaticon.com/free-icon/infinity_3981909) • [Link 46](https://www.flaticon.com/free-icon/stop-watch_11138644) • [Link 47](https://www.flaticon.com/free-icon/brain_2630179) • [Link 48](https://www.flaticon.com/free-icon/wirte_10270677) • [Link 49](https://www.flaticon.com/free-icon/up-arrow_10486739) • [Link 50](https://www.flaticon.com/free-icon/push-pin_4675117) • [Link 51](https://www.flaticon.com/free-icon/warning_1362443) • [Link 52](https://www.flaticon.com/free-icon/error_15526491) • [Link 53](https://www.flaticon.com/free-icon/plus-sign_8867440) • [Link 54](https://www.flaticon.com/free-icon/star_2107957) • [Link 55](https://www.flaticon.com/free-icon/sparkle_8369316) • [Link 56](https://www.flaticon.com/free-icon/question_16845789) • [Link 57](https://www.flaticon.com/free-icon/danger_7420995) • [Link 58](https://www.flaticon.com/free-icon/question-mark_9796786) • [Link 59](https://www.flaticon.com/free-icon/warning_159469) • [Link 60](https://www.flaticon.com/free-icon/white-flag_5077205) • [Link 61](https://www.flaticon.com/free-icon/time_2985092) • [Link 62](https://www.flaticon.com/free-icon/trophy_1152912) • [Link 63](https://www.flaticon.com/free-icon/handshake_3562049) • [Link 64](https://www.flaticon.com/free-icon/trophy_17088940) • [Link 65](https://www.flaticon.com/free-icon/hour-glass_8832599)
 
 ## License
-
-The icons were used under the terms of the free Flaticon license, which allows them to be used in personal and commercial projects when the author is credited.
+The icons were used under the terms of the Flaticon license.
