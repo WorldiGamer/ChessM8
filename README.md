@@ -8,3 +8,9 @@ This project uses icons downloaded from [Flaticon](https://www.flaticon.com/).
 
 ## License
 The icons were used under the terms of the Flaticon license.
+
+## Open Source Software & Libraries
+This project makes use of the following open-source chess engines and repositories:
+
+* **Maia2**: [https://github.com/CSSLab/maia2](https://github.com/CSSLab/maia2)
+* **Leorik**: [https://github.com/lithander/Leorik](https://github.com/lithander/Leorik)
