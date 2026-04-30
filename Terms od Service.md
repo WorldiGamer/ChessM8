@@ -1,4 +1,3 @@
-Oto Twój regulamin sformatowany w przejrzysty i profesjonalny sposób przy użyciu składni Markdown. Dzięki temu będzie on czytelny zarówno w pliku tekstowym, jak i po wygenerowaniu na stronie internetowej czy wewnątrz aplikacji.
 # Terms of Service
 **Last Updated: 26.12.2025**
 **PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP.**
