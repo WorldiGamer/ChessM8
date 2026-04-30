@@ -1,5 +1,5 @@
 # Terms of Service
-**Last Updated: 26.12.2025**
+**Last Updated: 30.04.2026**
 **PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP.**
 
 ### 1. Agreement to Terms
