@@ -1,7 +1,7 @@
 # Privacy Policy
 **Effective Date:** 30.04.2026  
 **Data Controller:** Tomasz Rutkowski  
-**App Name:** Chess M8
+**App Name:** Chess M8  
 
 ---
 
@@ -26,8 +26,15 @@ To function, the App requires:
 * **Internet Access:** To connect specifically to Chess.com and Lichess.org APIs.
 * **Storage (Read/Write):** To save and retrieve PGN files on your device (where applicable).
 
-### 3. Legal Basis for Processing (GDPR)
-If you are located in the European Economic Area (EEA), our legal basis for processing information is **Article 6(1)(b) of the GDPR**, which allows the processing of data necessary for the performance of a contract (to provide you with the chess data analysis features you requested).
+### 3. Purposes and Legal Basis for Processing (GDPR)
+If you are located in the European Economic Area (EEA), we process personal data (usernames from external services, game statistics) for the following purposes:
+
+* **Providing the service and game analysis:** To allow you to download your chess games, analyze them, and display statistics within the App.
+    * *Legal Basis:* **Article 6(1)(b) of the GDPR** (processing is necessary for the performance of a contract to provide you with the features you requested).
+* **Ensuring technical functionality:** Using internet access to communicate with Chess.com and Lichess.org servers securely and reliably.
+    * *Legal Basis:* **Article 6(1)(f) of the GDPR** (legitimate interest in ensuring the App's proper functionality and security).
+* **Local storage for offline use:** Saving PGN files on your device so you can access your data without an active internet connection.
+    * *Legal Basis:* **Article 6(1)(b) of the GDPR**.
 
 ### 4. Third-Party Services
 The App acts as a client interface. When you use the "Import" feature, your device connects directly to:
