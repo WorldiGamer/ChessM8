@@ -20,7 +20,7 @@ You acknowledge that the App interacts with third-party APIs (**Chess.com** and 
 ### 4. Service Availability and API Changes
 The App’s functionality is strictly dependent on the availability of third-party APIs (Chess.com/Lichess). You acknowledge that:
  * If a third-party provider changes its API, restricts access, or ceases operations, certain features of the App may become unavailable.
- * The Developer is not liable for such disruptions and is not obligated to provide a refund in such events.*
+ * The Developer is not liable for such disruptions and is not obligated to provide a refund in such events.
    
 ### 5. Disclaimer of Warranties
 **TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.**
