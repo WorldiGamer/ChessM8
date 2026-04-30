@@ -1,0 +1,56 @@
+# Terms of Service
+**Last Updated: 26.12.2025**
+
+> **PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP.**
+
+---
+
+### 1. Agreement to Terms
+By downloading, installing, or using **Bubble Chess** ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+
+### 2. Grant of License
+Tomasz Rutkowski grants you a personal, non-exclusive, non-transferable license to use the App for personal use. 
+* **Prohibitions:** Commercial redistribution or sale of the App’s data is prohibited.
+* **Permissions:** The use of the App for video content creation (e.g., YouTube, Twitch) is explicitly permitted.
+
+### 3. User Conduct and API Usage
+You acknowledge that the App interacts with third-party APIs (**Chess.com** and **Lichess.org**). You agree to:
+* Not use the App to harass, abuse, or spam these third-party services.
+* Not attempt to reverse engineer, decompile, or disassemble the App source code.
+* Comply with the Terms of Service of Chess.com and Lichess.org when accessing their data through this App.
+* Not circumvent any rate limits or restrictions imposed by the App or third-party providers.
+
+### 4. Service Availability and API Changes
+The App’s functionality is strictly dependent on the availability of third-party APIs (Chess.com/Lichess). You acknowledge that:
+* If a third-party provider changes its API, restricts access, or ceases operations, certain features of the App may become unavailable.
+* The Developer is not liable for such disruptions and is not obligated to provide a refund in such events.
+
+### 5. Disclaimer of Warranties
+**TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.**
+
+WE HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APP, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+
+### 6. Limitation of Liability
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR PERSONAL INJURY, OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE APP.
+
+> **SPECIFIC SECURITY DISCLAIMER:** You acknowledge that you are responsible for the security of your own device. The Developer shall not be liable for any unauthorized access to your data, data corruption, or damage to your device resulting from malware, modifications to your device's operating system ("rooting"), or interception of data over unsecured networks.
+
+### 7. Third-Party Content
+The App may display content (chess games, usernames) from third-party sources. We do not control, endorse, or assume responsibility for any such content. We are not responsible if third-party APIs (Chess.com/Lichess) discontinue their service, change their data format, or block the App.
+
+### 8. Indemnification
+You agree to indemnify, defend, and hold harmless the Developer and its affiliates from any claims, losses, damages, liabilities, including legal fees, arising out of your use or misuse of the App, your violation of these Terms, or your violation of any rights of a third party.
+
+### 9. Governing Law and Jurisdiction
+These Terms shall be governed by and construed in accordance with the **laws of Poland**, excluding its conflicts of law rules. Any dispute arising out of or relating to these Terms shall be subject to the jurisdiction of the competent courts of Poland.
+
+### 10. Termination
+We may terminate your license to use the App at any time without notice if you fail to comply with these Terms. Upon termination, you must cease all use of the App and delete all copies from your device.
+
+### 11. Updates & Changes
+The Developer reserves the right to modify, suspend, or discontinue any part of the App at any time. We may also impose limits on certain features or restrict your access to parts of the App without notice or liability.
+
+### 12. Contact Us
+If you have questions about this Terms of Service, please contact us at:
+
+**Email:** [wottomekr@gmail.com](mailto:wottomekr@gmail.com)
