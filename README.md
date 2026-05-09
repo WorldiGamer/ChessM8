@@ -29,7 +29,8 @@ This project makes use of the following open-source chess engines and repositori
 
 ### 1. Maia Chess (Maia2)
 * **Repository:** [https://github.com/CSSLab/maia2](https://github.com/CSSLab/maia2)
-* **Details:** This application uses a tuned version of the Maia2 model.
+* **Authors:** Reid McIlroy-Young, Ashton Anderson, Siddhartha Sen, Jon Kleinberg
+* **Details:** This application uses a tuned version of the Maia2 model, which can be found in releases page.
 * **License:** [MIT License](https://github.com/CSSLab/maia2/blob/main/LICENSE)
 
 ### 2. Leorik
