@@ -24,8 +24,8 @@ This project uses icons downloaded from [Flaticon](https://www.flaticon.com/). I
 
 ---
 
-## ⚙️ Open Source Software & Engines
-This project makes use of the following open-source chess engines and repositories, both distributed under the **MIT License**:
+## ⚙️ Open Source Software
+This project makes use of the following open-source repositories, both distributed under the **MIT License**:
 
 ### 1. Maia Chess (Maia2)
 * **Repository:** [https://github.com/CSSLab/maia2](https://github.com/CSSLab/maia2)
